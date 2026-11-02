@@ -1,0 +1,1 @@
+Crypto Technical Dashboard\n\nJalankan: pip install -r requirements.txt\nLalu: streamlit run app.py\n\nMengambil data candle publik Indodax. Tidak perlu API key atau wallet. Tidak melakukan transaksi.\n
