@@ -1,1 +1,5 @@
-streamlit>=1.32\nccxt>=4.2\npandas>=2.0\nnumpy>=1.26\nplotly>=5.18\n
+streamlit>=1.32
+ccxt>=4.2
+pandas>=2.0
+numpy>=1.26
+plotly>=5.18
